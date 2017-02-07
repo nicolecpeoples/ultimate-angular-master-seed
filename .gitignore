@@ -3,6 +3,7 @@ node_modules
 .DS_Store
 .tmp
 .sass-cache
+.firebaserc
 *.sublime-*
 .jekyll-metadata
 .idea
